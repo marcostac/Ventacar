@@ -1,0 +1,6 @@
+/*!CK:2620075531!*//*1407733291,*/
+
+if (self.CavalryLogger) { CavalryLogger.start_js(["D3V5i"]); }
+
+__d("MessagesViewerSetID",[],function(a,b,c,d,e,f){e.exports={MESSAGES:"messages",MESSAGES_VIEW_ALL_IN_THREAD:"messages:view_all_in_thread"};},null);
+__d("MessagesViewer",["AsyncRequest","DOM","MessagesViewerSetID","PhotoStore","React","SpotlightMessagesViewer","ge"],function(a,b,c,d,e,f,g,h,i,j,k,l,m){var n={bootstrapWithElem:function(o){n.bootstrapWithConfig({fbid:o.getAttribute('data-fbid'),dimensions:o.getAttribute('data-dimensions'),src:o.getAttribute('href'),endpoint:o.getAttribute('data-endpoint'),disablePaging:o.getAttribute('data-disablepaging')},o);},bootstrapWithConfig:function(o,p){var q=o.setID;if(!q)q=i.MESSAGES;var r=k.createElement(l,{open:true,setid:q,photoid:o.fbid,thumbsrc:o.src,dimensions:[o.dimensions],disablepaging:o.disablePaging,reverse:false});n.render(r);if(!j.hasBeenCreated(q)){var s=new g(o.endpoint);if(p)s.setRelativeTo(p);s.send();}},render:function(o){var p=m('messages_viewer');if(!p){p=h.create('div',{id:'messages_viewer'});document.body.appendChild(p);}o=k.renderComponent(o,p);o.subscribeOnce('close',function(){h.empty(p);});}};e.exports=n;},null);

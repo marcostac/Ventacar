@@ -1,0 +1,103 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="ProyectoWeb.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+      <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+ 
+</head>
+<body>
+    <form id="form1" runat="server">
+    
+    <div id="main">
+    <header>
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1><a href="index.html">Ventacar<span class="logo_colour"></span></a></h1>
+          <h2>Siempre A  tu orden .</h2>
+        
+        </div>
+        
+      </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            <div >
+           <ul class="sf-menu"  id="login" >
+           
+               <li><asp:LinkButton ID="lnbtnLogin" runat="server" BorderStyle="None" >Login</asp:LinkButton></li>
+                <li><asp:LinkButton ID="creaUsuario" runat="server" BorderStyle="None">Crear usuario</asp:LinkButton></li>          
+                       
+                </ul>
+          </div>
+        </asp:ContentPlaceHolder>
+     
+     
+      <nav>
+        <ul class="sf-menu" id="nav">
+          <li class="selected"><a href="index.html">Home</a></li>
+          <li><a href="examples.html">Examples</a></li>
+          <li><a href="page.html">A Page</a></li>
+          <li><a href="another_page.html">Another Page</a></li>
+        
+          <li><a href="contact.php">Contact Us</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div id="site_content">
+      <%-- <div id="sidebar_container">
+        <div class="sidebar">
+          <h3>Latest News</h3>
+          <h4>New Website Launched</h4>
+          <h5>January 1st, 2012</h5>
+          <p>2012 sees the redesign of our website. Take a look around and let us know what you think.<br /><a href="#">Read more</a></p>
+          <h4>20% Discount</h4>
+          <h5>March 1st, 2012</h5>
+          <p>We are offering a 20% discount to all new customers.<br /><a href="#">Read more</a></p>
+        </div>
+      </div>
+     --%>
+      <div class="content">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                 </asp:ContentPlaceHolder>
+
+      </div>
+      
+    </div>
+    <footer>
+      <p>Copyright &copy; VentaCar | 2014</a></p>
+    </footer>
+  </div>
+    
+    --------
+ 
+
+
+
+      <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <script type="text/javascript" src="js/jquery.kwicks-1.5.1.js"></script>
+  <script type="text/javascript">
+      $(document).ready(function () {
+          $('#images').kwicks({
+              max: 600,
+              spacing: 2
+          });
+          $('ul.sf-menu').sooperfish();
+      });
+  </script>
+    </form>
+</body>
+</html>

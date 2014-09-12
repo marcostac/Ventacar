@@ -1,0 +1,25 @@
+C:\Users\usuario\Desktop\proyectoDej.Net\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\usuario\Desktop\proyectoDej.Net\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\usuario\Desktop\proyectoDej.Net\ProyectoWeb\ProyectoWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\proyectoDej.Net\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\usuario\Desktop\proyectoDej.Net\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\kevin\Desktop\proyectoDej.Net\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\kevin\Desktop\proyectoDej.Net\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\kevin\Desktop\proyectoDej.Net\ProyectoWeb\ProyectoWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\proyectoDej.Net\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\kevin\Desktop\proyectoDej.Net\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\r\Documents\Duoc\desarrollo en net\proyectoDej.Net\proyectoDej.Net\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\r\Documents\Duoc\desarrollo en net\proyectoDej.Net\proyectoDej.Net\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\r\Documents\Duoc\desarrollo en net\proyectoDej.Net\proyectoDej.Net\ProyectoWeb\ProyectoWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\r\Documents\Duoc\desarrollo en net\proyectoDej.Net\proyectoDej.Net\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\r\Documents\Duoc\desarrollo en net\proyectoDej.Net\proyectoDej.Net\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+E:\Duoc\tercer año segundo semestre\desarrollo en net\ProyectoWeb\bin\ProyectoWeb.dll
+E:\Duoc\tercer año segundo semestre\desarrollo en net\ProyectoWeb\bin\ProyectoWeb.pdb
+E:\Duoc\tercer año segundo semestre\desarrollo en net\ProyectoWeb\obj\Debug\ResolveAssemblyReference.cache
+E:\Duoc\tercer año segundo semestre\desarrollo en net\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+E:\Duoc\tercer año segundo semestre\desarrollo en net\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+U:\Duoc\tercer año segundo semestre\desarrollo en net\ProyectoWeb\bin\ProyectoWeb.dll
+U:\Duoc\tercer año segundo semestre\desarrollo en net\ProyectoWeb\bin\ProyectoWeb.pdb
+U:\Duoc\tercer año segundo semestre\desarrollo en net\ProyectoWeb\obj\Debug\ResolveAssemblyReference.cache
+U:\Duoc\tercer año segundo semestre\desarrollo en net\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+U:\Duoc\tercer año segundo semestre\desarrollo en net\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
