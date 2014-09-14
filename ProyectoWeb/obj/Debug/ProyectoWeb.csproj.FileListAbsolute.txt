@@ -23,3 +23,10 @@ U:\Duoc\tercer año segundo semestre\desarrollo en net\ProyectoWeb\bin\ProyectoW
 U:\Duoc\tercer año segundo semestre\desarrollo en net\ProyectoWeb\obj\Debug\ResolveAssemblyReference.cache
 U:\Duoc\tercer año segundo semestre\desarrollo en net\ProyectoWeb\obj\Debug\ProyectoWeb.dll
 U:\Duoc\tercer año segundo semestre\desarrollo en net\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\r\Desktop\proyecto\Ventacar\ProyectoWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\r\Desktop\proyecto\Ventacar\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\r\Desktop\proyecto\Ventacar\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\r\Desktop\proyecto\Ventacar\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\r\Desktop\proyecto\Ventacar\ProyectoWeb\bin\Biblioteca.dll
+C:\Users\r\Desktop\proyecto\Ventacar\ProyectoWeb\bin\Biblioteca.pdb
+C:\Users\r\Desktop\proyecto\Ventacar\ProyectoWeb\obj\Debug\ProyectoWeb.pdb

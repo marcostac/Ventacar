@@ -30,16 +30,6 @@
       </div>
     </div>
 </asp:Content>
-<asp:Content ID="Content3" runat="server" 
-    contentplaceholderid="ContentPlaceHolder2">
-    <div >
-           <ul class="sf-menu"  id="login" >
-           
-               <li><asp:LinkButton ID="lnbtnLogin" runat="server" BorderStyle="None" 
-                       onclick="lnbtnLogin_Click" >Login</asp:LinkButton></li>
-                <li><asp:LinkButton ID="creaUsuario" runat="server" BorderStyle="None">Crear usuario</asp:LinkButton></li>          
-                       
-                </ul>
-          </div>
-        </asp:Content>
+
+
 

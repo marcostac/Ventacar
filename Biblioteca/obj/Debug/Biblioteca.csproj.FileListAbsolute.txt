@@ -1,0 +1,5 @@
+C:\Users\r\Desktop\proyecto\Ventacar\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\r\Desktop\proyecto\Ventacar\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\r\Desktop\proyecto\Ventacar\Biblioteca\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\r\Desktop\proyecto\Ventacar\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\r\Desktop\proyecto\Ventacar\Biblioteca\obj\Debug\Biblioteca.pdb

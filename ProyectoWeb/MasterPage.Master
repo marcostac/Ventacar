@@ -30,24 +30,25 @@
         </div>
         
       </div>
-        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+       
             <div >
            <ul class="sf-menu"  id="login" >
-           
-               <li><asp:LinkButton ID="lnbtnLogin" runat="server" BorderStyle="None" >Login</asp:LinkButton></li>
-                <li><asp:LinkButton ID="creaUsuario" runat="server" BorderStyle="None">Crear usuario</asp:LinkButton></li>          
+          
+               <li><asp:LinkButton ID="lnbtnLogin" runat="server" onclick="lnbtnLogin_Click">Login</asp:LinkButton> </li>
+                <li><asp:LinkButton ID="lnbtnCrear" runat="server" BorderStyle="None" 
+                        onclick="lnbtnCrear_Click">Crear usuario</asp:LinkButton></li>          
                        
                 </ul>
           </div>
-        </asp:ContentPlaceHolder>
+       
      
      
       <nav>
         <ul class="sf-menu" id="nav">
-          <li class="selected"><a href="index.html">Home</a></li>
-          <li><a href="examples.html">Examples</a></li>
-          <li><a href="page.html">A Page</a></li>
-          <li><a href="another_page.html">Another Page</a></li>
+          <li class="selected"><asp:LinkButton ID="Inicio" runat="server">LinkButton</asp:LinkButton></li>
+          <li><a href="Inicio.aspx">Examples</a></li>
+          <li><a href="Ventas.aspx">A Page</a></li>
+          <li><a href="Arreindo.aspx">Another Page</a></li>
         
           <li><a href="contact.php">Contact Us</a></li>
         </ul>

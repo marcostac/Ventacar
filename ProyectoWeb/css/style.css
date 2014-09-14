@@ -212,6 +212,19 @@ background-color:Black;
   -moz-border-radius: 7px 7px 7px 7px;
   -webkit-border: 7px 7px 7px 7px;
 }
+/*bonton guardar*/
+#btnGuardar
+{
+     background: #ddd;
+    
+     color: #222;
+border: 1px solid #eee;
+ border-radius: 7px 7px 7px 7px;
+}
+
+
+/**/
+
 #login li
 {
     
@@ -449,6 +462,12 @@ table tr td {
   color: #444;
   border-top: 1px solid #FFF;
 }
+/*tabla centrar*/
+#boton
+{
+   margin:auto auto auto 5px ;
+}
+/**/
 
 /* Image Transitions */
 ul#images {
@@ -508,6 +527,8 @@ ul.sf-menu li:hover {
 ul.sf-menu a { 
   display: block;
   position: relative;
+    top: 0px;
+    left: 0px;
 }
   
 ul.sf-menu ul { 

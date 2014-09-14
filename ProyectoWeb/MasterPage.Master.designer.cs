@@ -31,15 +31,6 @@ namespace ProyectoWeb {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// Control ContentPlaceHolder2.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder ContentPlaceHolder2;
-        
-        /// <summary>
         /// Control lnbtnLogin.
         /// </summary>
         /// <remarks>
@@ -49,13 +40,22 @@ namespace ProyectoWeb {
         protected global::System.Web.UI.WebControls.LinkButton lnbtnLogin;
         
         /// <summary>
-        /// Control creaUsuario.
+        /// Control lnbtnCrear.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton creaUsuario;
+        protected global::System.Web.UI.WebControls.LinkButton lnbtnCrear;
+        
+        /// <summary>
+        /// Control Inicio.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton Inicio;
         
         /// <summary>
         /// Control ContentPlaceHolder1.
