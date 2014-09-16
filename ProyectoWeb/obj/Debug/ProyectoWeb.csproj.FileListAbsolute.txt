@@ -30,3 +30,10 @@ C:\Users\r\Desktop\proyecto\Ventacar\ProyectoWeb\bin\ProyectoWeb.pdb
 C:\Users\r\Desktop\proyecto\Ventacar\ProyectoWeb\bin\Biblioteca.dll
 C:\Users\r\Desktop\proyecto\Ventacar\ProyectoWeb\bin\Biblioteca.pdb
 C:\Users\r\Desktop\proyecto\Ventacar\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\Esteban\Desktop\Nueva carpeta (2)\Ventacar\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\Esteban\Desktop\Nueva carpeta (2)\Ventacar\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\Esteban\Desktop\Nueva carpeta (2)\Ventacar\ProyectoWeb\bin\Biblioteca.dll
+C:\Users\Esteban\Desktop\Nueva carpeta (2)\Ventacar\ProyectoWeb\bin\Biblioteca.pdb
+C:\Users\Esteban\Desktop\Nueva carpeta (2)\Ventacar\ProyectoWeb\obj\Debug\ProyectoWeb.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\Nueva carpeta (2)\Ventacar\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\Esteban\Desktop\Nueva carpeta (2)\Ventacar\ProyectoWeb\obj\Debug\ProyectoWeb.pdb

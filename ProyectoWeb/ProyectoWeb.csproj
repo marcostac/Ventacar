@@ -126,7 +126,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="contact.php" />
     <None Include="fonts\NewsCycle-Regular.eot" />
     <None Include="fonts\NewsCycle-Regular.ttf" />
     <None Include="fonts\YanoneKaffeesatz-Regular.eot" />
