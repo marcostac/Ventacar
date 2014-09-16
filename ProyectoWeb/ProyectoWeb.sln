@@ -5,8 +5,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoWeb", "ProyectoWeb.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "..\Biblioteca\Biblioteca.csproj", "{8C02AE54-E7B9-42E8-B572-C3A653091139}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRedirect", "U:\Duoc\tercer año segundo semestre\desarrollo en net\clases\WebRedirect\WebRedirect\WebRedirect.csproj", "{ED26DE61-6549-4928-82BA-CFAF830A5706}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,10 +19,6 @@ Global
 		{8C02AE54-E7B9-42E8-B572-C3A653091139}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C02AE54-E7B9-42E8-B572-C3A653091139}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C02AE54-E7B9-42E8-B572-C3A653091139}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ED26DE61-6549-4928-82BA-CFAF830A5706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ED26DE61-6549-4928-82BA-CFAF830A5706}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ED26DE61-6549-4928-82BA-CFAF830A5706}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ED26DE61-6549-4928-82BA-CFAF830A5706}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
